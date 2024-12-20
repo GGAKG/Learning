@@ -1,1 +1,1 @@
-Learning java Springboot Framework and Testing with jenkins pull trigger
+Learning java Springboot Framework and Testing with jenkins pull trigger auto
